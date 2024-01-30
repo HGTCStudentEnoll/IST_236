@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2024-01-30T17:31:23.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="5am2PAcY-nNQeacq8un5" version="23.0.2" type="device">
+  <diagram name="Page-1" id="xygWzRE65nBMUokvQkSa">
+    <mxGraphModel dx="2072" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ro2XTq38gYa4n-VXXN53-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="160" width="360" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro2XTq38gYa4n-VXXN53-2" value="Main Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="377.5" y="100" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro2XTq38gYa4n-VXXN53-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="160" width="360" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro2XTq38gYa4n-VXXN53-4" value="Modal Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro2XTq38gYa4n-VXXN53-5" value="Submit Button" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="362.5" y="770" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro2XTq38gYa4n-VXXN53-7" value="Magic 8 Ball" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="370" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro2XTq38gYa4n-VXXN53-9" value="Close Button" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1202.5" y="530" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro2XTq38gYa4n-VXXN53-10" value="Input Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="375" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro2XTq38gYa4n-VXXN53-11" value="Asked question" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1204.38" y="340" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro2XTq38gYa4n-VXXN53-12" value="Random Response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1195" y="450" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fnIsUVfLxAHeCWkzT0Uj-1" value="Asked Question label" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1188.75" y="290" width="142.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fnIsUVfLxAHeCWkzT0Uj-2" value="Random response label" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1188.75" y="400" width="141.25" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
