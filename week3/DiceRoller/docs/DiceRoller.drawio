@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2024-01-26T01:37:20.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="UYDJsUPTSf629a0fy4VW" version="23.0.2" type="device">
+  <diagram name="Page-1" id="S9fXX9HuztQlNJ52F957">
+    <mxGraphModel dx="1650" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rAEtU5m-mSDBHFR5YDGh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="110" width="480" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="rAEtU5m-mSDBHFR5YDGh-2" value="Main Screen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="378" y="50" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rAEtU5m-mSDBHFR5YDGh-3" value="Dice Roller Title" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="363" y="140" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rAEtU5m-mSDBHFR5YDGh-4" value="Roll Dice Button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAEtU5m-mSDBHFR5YDGh-5" value="Dice 1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="318" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAEtU5m-mSDBHFR5YDGh-6" value="Dice 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="473" y="320" width="64.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAEtU5m-mSDBHFR5YDGh-7" value="Dice Result" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380.5" y="510" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rAEtU5m-mSDBHFR5YDGh-8" value="Wager Result" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="383" y="630" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rAEtU5m-mSDBHFR5YDGh-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="110" width="480" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="rAEtU5m-mSDBHFR5YDGh-10" value="Main Screen Modal Screen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rAEtU5m-mSDBHFR5YDGh-11" value="Enter Guess Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="170" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rAEtU5m-mSDBHFR5YDGh-13" value="Enter Wager Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="250" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rAEtU5m-mSDBHFR5YDGh-14" value="Cancel Button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAEtU5m-mSDBHFR5YDGh-15" value="Roll Dice Button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
